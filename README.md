@@ -1,13 +1,13 @@
 ### So you've found my GitHub profile, welcome! 👋
 
+> Pleae do not treat the repositories you find on here as a representation of my professional skill as a software developer, **because neither do I**. 
+
 Here is where I store all of my
 - 🕹️ Hobby projects (which I always start, but not always finish 😄)
 - 🧪 Experiments
 - ⚡ Spikes
 - 📄 Snippets
 - _And other things_
-
-> Pleae do not treat every repository on here as a representation of my professional skill as a software developer, **because neither do I**. 
 
 Feel free to use whatever code you find & happy programming!
  
