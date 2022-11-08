@@ -11,7 +11,7 @@ Here is where I store all of my
 
 Feel free to use whatever code you find & happy programming!
  
-📫 Want to get in touch? [https://niedel.be](niedel.be)
+📫 Want to get in touch? [niedel.be](niedel.be)
 
 <!--
 **nielsdelestinne/nielsdelestinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
